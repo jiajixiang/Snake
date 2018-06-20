@@ -1,0 +1,45 @@
+#ifndef HEAD_H
+#define HEAD_H
+
+#include <QEvent>
+#include <QGraphicsScene>
+#include <QKeyEvent>
+#include <QTime>
+#include <QMenu>
+#include <QToolBar>
+#include <Qaction>
+#include <QTableWidgetItem>
+#include <QTableWidget>
+#include <QMenuBar>
+#include <QDialog>
+#include <QStatusBar>
+#include <QMessageBox>
+#include <QtSql/QSqlQuery>
+#include <QDateTime>
+#include <QPainter>
+#include <QGraphicsView>
+#include <QCoreApplication>
+#include <QDebug>
+#include <QtSql/QSqlDatabase>
+#include <QStringList>
+#include <QObject>
+#include <QRectF>
+#include <QHostAddress>
+#include <qdebug.h>
+#include <QNetworkInterface>
+#include <QProcess>
+#include <QMainWindow>
+#include <QAction>
+#include <QHostAddress>
+#include <QHeaderView>
+#include <QHostInfo>
+#include <QProcess>
+#include <QNetworkInterface>
+#include <QList>
+#include <QTimer>
+#include <QGraphicsItem>
+#include <QtSql>
+#include <QStringList>
+
+#include <QByteArray>
+#endif // HEAD_H

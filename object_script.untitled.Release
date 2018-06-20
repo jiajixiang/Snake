@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\food.o
+./release\gamecontroller.o
+./release\snake.o
+./release\wall.o
+./release\information.o
+./release\qrc_menu.o
+./release\moc_mainwindow.o
+./release\moc_gamecontroller.o
+);

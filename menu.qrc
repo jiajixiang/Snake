@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix">
+        <file>app.ico</file>
+        <file>78.jpg</file>
+        <file>huaji.png</file>
+    </qresource>
+</RCC>
